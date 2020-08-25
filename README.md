@@ -1,2 +1,1 @@
-# vFAZ8cbqI2WlQyb6
-vFAZ8cbqI2WlQyb6
+KNN ve Random Forest kullanılarak sınıflandırma yapılmıştır. KNN algoritması için  best parametreler incelenmiştir ayrıca PCA yapılmıştır.
